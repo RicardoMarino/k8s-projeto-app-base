@@ -1,5 +1,5 @@
 <p align="center">Exemplo de deploy no Kubernet utilizando o Minikube</p>
-<h3>Instrução de Uso</h3>
+<h3>Instruções de Uso</h3>
 <p>No Terminal/Console:</p>
 <ol>
 	<li>Faça a instalação do Minikube</li>
